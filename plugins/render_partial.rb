@@ -6,14 +6,14 @@
 # Syntax {% render_partial path/to/file %}
 #
 # Example 1:
-# {% render_partial about/_bio.markdown %}
+# {% render_partial about/_bio.md %}
 #
-# This will import source/about/_bio.markdown and render it inline.
+# This will import source/about/_bio.md and render it inline.
 # In this example I used an underscore at the beginning of the filename to prevent Jekyll
 # from generating an about/bio.html (Jekyll doesn't convert files beginning with underscores)
 #
 # Example 2:
-# {% render_partial ../README.markdown %}
+# {% render_partial ../README.md %}
 #
 # You can use relative pathnames, to include files outside of the source directory.
 # This might be useful if you want to have a page for a project's README without having
