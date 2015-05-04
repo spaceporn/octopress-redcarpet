@@ -1,11 +1,14 @@
-## Octopress 3.0
-
-Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
+octopress-redcarpet
+===================
 
 ## Why this fork?
 
 It's mainly a personal fork until 3.0 is ready, since it already uses redcarpet as its Markdown engine.
 I have also changed default Markdown file extension to .md. Minor nitpicks, is all.
+
+## Octopress 3.0
+
+Note: Octopress 3.0 is in development at https://github.com/octopress/octopress
 
 ## What is Octopress?
 
